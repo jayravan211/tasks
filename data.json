@@ -1,0 +1,17 @@
+{   
+    "People1":[
+        {
+            "Name" : "Leo",
+            "Website" : "leo.com",
+            "from" : "Ahmedabad"
+        },
+
+        {
+            "Name" : "hell",
+            "Website" : "hell.com",
+            "from" : "Ahmedabad"
+        }
+
+]
+
+}
